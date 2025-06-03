@@ -1,2 +1,2 @@
-# Datacamp-SQL-projects-completed
+# Datacamp-SQL-projects
 SQL projects completed via Datacamp
